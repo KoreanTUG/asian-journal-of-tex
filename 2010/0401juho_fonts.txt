@@ -1,0 +1,135 @@
+name                                 type              emb sub uni object ID
+------------------------------------ ----------------- --- --- --- ---------
+RUNGIY+PalatinoLTStd-Roman-Identity-H CID Type 0C       yes yes yes      5  0
+MTHPXR+OptimaLTStd-Identity-H        CID Type 0C       yes yes yes     20  0
+WLYKJK+YoonMyungjoL-Identity-H       CID Type 0C       yes yes no      22  0
+SFRLQR+LMMono9-Regular-Identity-H    CID Type 0C       yes yes yes     24  0
+OCSLJT+CMSY9                         Type 1C           yes yes no      25  0
+RHLGDS+PalatinoLTStd-Italic-Identity-H CID Type 0C       yes yes yes     27  0
+UDOYLI+PalatinoLTStd-Bold-Identity-H CID Type 0C       yes yes yes     29  0
+PNFPHQ+YoonMyungjoM-Identity-H       CID Type 0C       yes yes no      31  0
+ZCWUAO+LMMono10-Regular-Identity-H   CID Type 0C       yes yes yes     33  0
+YVCYPY+Cambria-BoldItalic            CID TrueType      yes yes yes     35  0
+VRWCMW+NimbusSanL-Bold               Type 1            yes yes no      11  0
+ISKEJF+URWPalladioL-Bold             Type 1            yes yes no      15  0
+NNTNCT+NanumGothic                   CID TrueType      yes yes yes     40  0
+JGJOAC+SeoulHangangM                 CID TrueType      yes yes yes     42  0
+VBZXQO+PalatinoLTStd-BoldItalic-Identity-H CID Type 0C       yes yes yes     44  0
+UWOGST+LMMono8-Regular-Identity-H    CID Type 0C       yes yes yes     88  0
+BBAAYG+YoonMyungjoL                  CID Type 0C       yes yes no      71  0
+BBAAYG+PalatinoLinotype-Roman        TrueType          yes yes no      74  0
+BBAAYG+MinionPro-Cn                  Type 1C           yes yes no      77  0
+BBAAYG+MinionPro-Bold                Type 1C           yes yes no      80  0
+BBAAYG+MinionPro-SemiboldCn          Type 1C           yes yes no      83  0
+IUCXLO+BickhamScriptPro-Regular-Identity-H CID Type 0C       yes yes yes     96  0
+HYWBVC+ZapfinoExtraLT-Ligatures-Identity-H CID Type 0C       yes yes yes    346  0
+LJPVKV+CMEX10                        Type 1C           yes yes yes    347  0
+YLNRGS+ZapfinoExtraLT-Ligatures      Type 1C           yes yes no     341  0
+HBNXYS+YoonGothicL-Identity-H        CID Type 0C       yes yes no     352  0
+NZREGA+CMMI7                         Type 1C           yes yes no     353  0
+ZVDRIM+CMSY7                         Type 1C           yes yes no     354  0
+DXJDPA+CMMI10                        Type 1C           yes yes no     355  0
+XEXBGE+CMSY10                        Type 1C           yes yes no     356  0
+HHDMJR+CMR7                          Type 1C           yes yes no     357  0
+LEFPSR+CMR10                         Type 1C           yes yes no     358  0
+NTTAHN+NimbusRomNo9L-Regu            Type 1C           yes yes no     363  0
+DKDYMK+NimbusRomNo9L-ReguItal        Type 1C           yes yes no     367  0
+KSUFMQ+CMSY10                        Type 1C           yes yes no     371  0
+AZXFVE+StandardSymL                  Type 1C           yes yes no     375  0
+DIFQQT+CMEX10                        Type 1C           yes yes yes    380  0
+WRYXCO+CMR10                         Type 1C           yes yes no     384  0
+YMUVLE+MyriadPro-Regular-Identity-H  CID Type 0C       yes yes yes    397  0
+CXUGXE+CMMI7                         Type 1C           yes yes no     401  0
+AFXIFZ+CMSY7                         Type 1C           yes yes no     405  0
+SVDHBO+CMEX10                        Type 1C           yes yes yes    410  0
+VWKJWB+CMMI10                        Type 1C           yes yes no     414  0
+TXTUPU+CMSY10                        Type 1C           yes yes no     418  0
+RDREZD+CMR7                          Type 1C           yes yes no     422  0
+KHZZHY+CMR10                         Type 1C           yes yes no     427  0
+RSXHQQ+CMR10                         Type 1C           yes yes no     434  0
+EBLSIM+CMMI7                         Type 1C           yes yes no     438  0
+LBDDTM+CMSY7                         Type 1C           yes yes no     442  0
+ADUQLA+CMEX10                        Type 1C           yes yes yes    447  0
+YFHAFO+CMMI10                        Type 1C           yes yes no     451  0
+GMTZPC+CMSY10                        Type 1C           yes yes no     455  0
+GOBUOG+CMR7                          Type 1C           yes yes no     459  0
+AKMBTS+MinionPro-Regular-Identity-H  CID Type 0C       yes yes yes    466  0
+DICRQE+MyriadPro-Regular-Identity-H  CID Type 0C       yes yes yes    468  0
+MZUDXA+UnBatang                      CID TrueType      yes yes yes    470  0
+NDYLYD+HCRBatang                     CID TrueType      yes yes yes    472  0
+RHOITL+SeoulNamsanL                  CID TrueType      yes yes yes    474  0
+SESRWG+AritaL                        CID TrueType      yes yes yes    476  0
+HCNDUN+AritaB                        CID TrueType      yes yes yes    478  0
+DRNYKO+TSThgrgl                      CID TrueType      yes yes yes    480  0
+MAZSNQ+MinionPro-Semibold-Identity-H CID Type 0C       yes yes yes    486  0
+SUVVRG+MinionPro-It-Identity-H       CID Type 0C       yes yes yes    488  0
+MBNKNK+TimesNewRomanPSMT             CID TrueType      yes yes yes    490  0
+AVQMRE+TimesNewRomanPS-BoldMT        CID TrueType      yes yes yes    492  0
+ENGVKG+TimesNewRomanPS-ItalicMT      CID TrueType      yes yes yes    494  0
+RWDGHR+TimesNewRomanPS-BoldItalicMT  CID TrueType      yes yes yes    496  0
+ORWKVW+Wingdings-Regular             CID TrueType      yes yes no     507  0
+JWTMDB+TektonPro-Regular-Identity-H  CID Type 0C       yes yes yes    523  0
+NMHBGZ+TektonPro-Bold-Identity-H     CID Type 0C       yes yes yes    525  0
+OQKDWP+TektonPro-Obl-Identity-H      CID Type 0C       yes yes yes    527  0
+MZMKAL+TektonPro-BoldObl-Identity-H  CID Type 0C       yes yes yes    529  0
+NVKYYK+Harrington                    CID TrueType      yes yes yes    531  0
+AERWJZ+HCRBatang-Bold                CID TrueType      yes yes yes    533  0
+WRFWKW+YDIBirdL                      CID TrueType      yes yes yes    535  0
+TTCKNL+NuevaStd-Regular-Identity-H   CID Type 0C       yes yes yes    540  0
+ZTEMUZ+ArnoPro-Regular-Identity-H    CID Type 0C       yes yes yes    542  0
+LKJPVM+StockholmStd-Identity-H       CID Type 0C       yes yes yes    544  0
+FATWII+QuillStd-Identity-H           CID Type 0C       yes yes yes    546  0
+WOBLTD+ATUncialStd-Identity-H        CID Type 0C       yes yes yes    548  0
+WWIFHU+HelveticaNeue-Roman-Identity-H CID Type 0C       yes yes yes    553  0
+OXYQLI+Gentium                       CID TrueType      yes yes yes    555  0
+VSZJJL+TrajanPro-Regular-Identity-H  CID Type 0C       yes yes yes    557  0
+QUJBMV+NuevaStd-Light-Identity-H     CID Type 0C       yes yes yes    559  0
+XHVAYF+CronosPro-SemiboldDisp        Type 1C           yes yes no     570  0
+XHVAYF+CronosPro-SemiboldDisp        Type 1C           yes yes no     582  0
+JDJZWK+LCIRCLE10                     Type 1C           yes yes no     588  0
+IMNFHC+AGaramondPro-Regular-Identity-H CID Type 0C       yes yes yes    593  0
+UWEHOK+NanumMyeongjo                 CID TrueType      yes yes yes    595  0
+MMWGSA+JejuMyeongjoOTF-Identity-H    CID Type 0C       yes yes no     600  0
+HQPEKU+BriosoPro-Capt-Identity-H     CID Type 0C       yes yes yes    605  0
+QUVKRE+BriosoPro-Regular-Identity-H  CID Type 0C       yes yes yes    607  0
+HPVEYR+BriosoPro-Subh-Identity-H     CID Type 0C       yes yes yes    609  0
+XILANM+BriosoPro-Disp-Identity-H     CID Type 0C       yes yes yes    611  0
+MOGRET+CronosPro-Capt-Identity-H     CID Type 0C       yes yes yes    613  0
+DEOWJM+CronosPro-Regular-Identity-H  CID Type 0C       yes yes yes    615  0
+QUMRMI+CronosPro-Subh-Identity-H     CID Type 0C       yes yes yes    617  0
+VNVBJR+CronosPro-Disp-Identity-H     CID Type 0C       yes yes yes    619  0
+XWLKFY+Junicode-Regular              CID TrueType      yes yes yes    627  0
+CCDJQF+LinLibertineO-Identity-H      CID Type 0C       yes yes yes    629  0
+SLXLDA+AdobeMyungjoStd-Medium-Identity-H CID Type 0C       yes yes no     631  0
+GSNXZR+RequiemText-HTF-Roman-Identity-H CID Type 0C       yes yes yes    636  0
+QZGISC+RequiemText-HTF-ItalicLigs-Identity-H CID Type 0C       yes yes yes    638  0
+FZELOM+WarnockPro-Regular-Identity-H CID Type 0C       yes yes yes    640  0
+QZHATF+BriosoPro-Medium-Identity-H   CID Type 0C       yes yes yes    642  0
+GVUSHX+WarnockPro-It-Identity-H      CID Type 0C       yes yes yes    650  0
+OBGMOS+CiviliteMJStd-Identity-H      CID Type 0C       yes yes yes    652  0
+MRABUA+ZapfinoExtraLTPro-Identity-H  CID Type 0C       yes yes yes    654  0
+RBUGHD+AdobeMyungjoStd-Medium-Identity-H CID Type 0C       yes yes no     656  0
+NNOOIN+HCRBatang                     CID TrueType      yes yes yes    661  0
+QFDNFR+Code2000                      CID TrueType      yes yes yes    666  0
+PZONRM+AdobeKaitiStd-Regular-Identity-H CID Type 0C       yes yes no     668  0
+IFWJWT+FZSJSFW--GB1-0                CID TrueType      yes yes yes    673  0
+QXCPLH+FZXKFW--GB1-0                 CID TrueType      yes yes yes    675  0
+XAJUGI+Junicode-Bold                 CID TrueType      yes yes yes    680  0
+ZPOXHI+Junicode-BoldItalic           CID TrueType      yes yes yes    682  0
+BZNKZI+HoeflerText-Italic            TrueType          yes yes no     690  0
+FTFJJJ+HoeflerText-Italic            TrueType          yes yes yes    695  0
+XOJFFF+HoeflerText-Regular           TrueType          yes yes no     699  0
+ZXSRIX+HoeflerText-Regular           TrueType          yes yes yes    704  0
+BZNKZI+HoeflerText-Italic            TrueType          yes yes no     711  0
+FTFJJJ+HoeflerText-Italic            TrueType          yes yes yes    716  0
+XZQQQX+SIL-Hei-Med-Jian              CID TrueType      yes yes yes    726  0
+UKWONU+Skia-Regular                  CID TrueType      yes yes yes    736  0
+IFOELH+HiraMaruPro-W4-Identity-H     CID Type 0C       yes yes no     748  0
+TABLDH+Skia-Regular_wght8000_wdth30000 TrueType          yes yes no     755  0
+PKJHNO+Skia-Regular_wght8000_wdth30000 TrueType          yes yes yes    760  0
+TABLDH+Skia-Regular_Regular          TrueType          yes yes no     764  0
+PKJHNO+Skia-Regular_Regular          TrueType          yes yes yes    769  0
+TABLDH+Skia-Regular_wght20000_wdth8000 TrueType          yes yes no     773  0
+PKJHNO+Skia-Regular_wght20000_wdth8000 TrueType          yes yes yes    778  0
+UZAFKL+OptimaLTStd-Italic-Identity-H CID Type 0C       yes yes yes    801  0
+EGFIRS+PalatinoLTStd-Roman-Identity-H CID Type 0C       yes yes yes    809  0
